@@ -1,0 +1,74 @@
+.edd {
+    &-blocks {
+        &__download {
+            border: 1px solid var(--wp--preset--color--quinary);
+            background: var(--wp--preset--color--default);
+
+            &-header {
+                h3 {
+                    font-size: var(--wp--preset--font-size--small);
+
+                    a {
+                        color: var(--wp--preset--color--base) !important;
+                    }
+                }
+            }
+
+            &-image-link {
+                display: block;
+            }
+
+            &-price {
+                font-size: var(--wp--preset--font-size--medium);
+            }
+        }
+    }
+
+    &-submit {
+        background: var(--wp--preset--color--primary) !important;
+        border-color: var(--wp--preset--color--primary) !important;
+        padding: var(--wp--preset--spacing--10) var(--wp--preset--spacing--20);
+        font-size: var(--wp--preset--font-size--x-small);
+        font-weight: 400;
+        border-radius: 0;
+        color: var(--wp--preset--color--default);
+
+        &:hover {
+            background: var(--wp--preset--color--accent) !important;
+            border-color: var(--wp--preset--color--accent) !important;
+        }
+    }
+
+    &_pagination {
+
+        display: flex;
+        gap: 10px;
+        margin-top: 20px;
+
+        .page-numbers {
+            padding: 8px 16px;
+            border: 1px solid var(--wp--preset--color--quinary);
+        }
+
+        :where(.current),
+        .page-numbers:hover {
+            background: var(--wp--preset--color--accent);
+            border-color: var(--wp--preset--color--accent);
+            color: var(--wp--preset--color--default);
+        }
+    }
+}
+
+.edd-blocks__download-image-link,
+.edd-blocks__download-price {
+    margin-bottom: var(--wp--preset--spacing--10);
+}
+
+.wp-block-query {
+    .wp-block-edd-buy-button {
+        .edd-submit {
+            padding: 5px var(--wp--preset--spacing--10);
+            font-size: 13px;
+        }
+    }
+}
