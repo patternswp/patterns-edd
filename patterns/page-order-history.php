@@ -1,6 +1,6 @@
 <?php
 /**
- * Title:Page Order History
+ * Title: Page Order History
  * Slug: patterns-edd/page-order-history
  * Categories: edd, page
  * Keywords: Page

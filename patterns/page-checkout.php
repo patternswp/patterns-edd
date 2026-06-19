@@ -1,6 +1,6 @@
 <?php
 /**
- * Title:Page Checkout
+ * Title: Page Checkout
  * Slug: patterns-edd/page-checkout
  * Categories: page
  * Keywords: Page

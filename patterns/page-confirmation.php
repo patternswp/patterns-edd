@@ -1,6 +1,6 @@
 <?php
 /**
- * Title:Page Confirmation
+ * Title: Page Confirmation
  * Slug: patterns-edd/page-confirmation
  * Categories: edd, page
  * Keywords: Page
