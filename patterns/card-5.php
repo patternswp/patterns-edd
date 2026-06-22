@@ -14,7 +14,7 @@
 <!-- wp:columns {"verticalAlignment":"center","isStackedOnMobile":false,"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|20","left":"var:preset|spacing|20"}}}} -->
 <div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile">
         <!-- wp:column {"verticalAlignment":"center","width":"60%"} -->
-        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:60%">            
+        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:60%">
 
             <!-- wp:image {"width":"auto","height":"550px","aspectRatio":"9/16","scale":"cover","sizeSlug":"full","linkDestination":"none","align":"right","style":{"border":{"radius":"180px"}}} -->
             <figure class="wp-block-image alignright size-full is-resized has-custom-border"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-3.jpg" style="border-radius:180px;aspect-ratio:9/16;object-fit:cover;width:auto;height:550px"/></figure>

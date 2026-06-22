@@ -29,7 +29,7 @@
 <!-- wp:image {"width":"auto","height":"60px","sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/icon-4.png" style="width:auto;height:60px"/></figure>
 <!-- /wp:image -->
- 
+
 <!-- wp:spacer {"height":"var:preset|spacing|30"} -->
 <div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->

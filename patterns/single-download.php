@@ -25,7 +25,7 @@
 		<div class="wp-block-columns alignwide">
 		<!-- wp:column {"width":"70%"} -->
 		<div class="wp-block-column" style="flex-basis:70%">
-	
+
 			<!-- wp:pattern {"slug":"patterns-edd/featured-image-with-border"} /-->
 			<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 			<div class="wp-block-group">
@@ -40,7 +40,7 @@
                 <!-- wp:spacer {"height":"var:preset|spacing|30"} -->
                 <div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
                 <!-- /wp:spacer -->
-                
+
 				<!-- wp:query {"query":{"postType":"download","inherit":false,"perPage":3},"align":"wide","layout":{"type":"constrained"}} -->
 				<div class="wp-block-query alignwide">
 					<!-- wp:post-template {"align":"full","layout":{"type":"grid","columnCount":3}} -->

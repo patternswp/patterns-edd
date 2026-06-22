@@ -46,13 +46,13 @@ Source: https://github.com/googlefonts/roboto
 === Images ===
 
 License: GNU GPL, Version 3, https://www.gnu.org/licenses/gpl-3.0.html
-patternswp-logo-default.png, 
-patternswp-logo-green.png, 
-patternswp-logo-white.png, 
-logo files (logo-1.png to logo-5.png), 
+patternswp-logo-default.png,
+patternswp-logo-green.png,
+patternswp-logo-white.png,
+logo files (logo-1.png to logo-5.png),
 patterns-bakery.jpg,
 gutentor-logo.png,
-templateberg-logo.png, 
+templateberg-logo.png,
 acmeit.png,
 cosmoswp-logo.png
 
@@ -82,7 +82,7 @@ https://pxhere.com/en/photo/698974
 === Icons Images ===
 
 
-Material Icons Font 
+Material Icons Font
 https://fonts.google.com/icons
 
 License: Apache License, Version 2.0, https://www.apache.org/licenses/LICENSE-2.0

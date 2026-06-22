@@ -17,7 +17,7 @@
 <div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)">
 
 <!-- wp:edd/receipt /-->
-    
+
 </div>
 <!-- /wp:group -->
 

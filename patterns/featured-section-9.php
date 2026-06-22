@@ -21,7 +21,7 @@
 <div class="wp-block-column is-vertically-aligned-center">
     <!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"center"}} -->
     <div class="wp-block-group alignfull">
-        
+
     <!-- wp:image {"width":"auto","height":"60px","sizeSlug":"full","linkDestination":"none"} -->
     <figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/icon-6.png" style="width:auto;height:60px"/></figure>
     <!-- /wp:image -->
@@ -35,16 +35,16 @@
     <p class="has-tertiary-color has-text-color"><?php esc_html_e( 'Total Downloads', 'patterns-edd' ); ?></p>
     <!-- /wp:paragraph --></div>
     <!-- /wp:group --></div>
-    <!-- /wp:group -->    
+    <!-- /wp:group -->
 </div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center","layout":{"type":"constrained"}} -->
 <div class="wp-block-column is-vertically-aligned-center">
-    
+
     <!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"center"}} -->
     <div class="wp-block-group alignfull">
-        
+
     <!-- wp:image {"width":"auto","height":"60px","sizeSlug":"full","linkDestination":"none"} -->
     <figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/icon-7.png" style="width:auto;height:60px"/></figure>
     <!-- /wp:image -->
@@ -58,17 +58,17 @@
     <p class="has-tertiary-color has-text-color"><?php esc_html_e( 'Total Members', 'patterns-edd' ); ?></p>
     <!-- /wp:paragraph --></div>
     <!-- /wp:group --></div>
-    <!-- /wp:group -->  
+    <!-- /wp:group -->
 
 </div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center","layout":{"type":"constrained"}} -->
 <div class="wp-block-column is-vertically-aligned-center">
-    
+
     <!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"center"}} -->
     <div class="wp-block-group alignfull">
-        
+
     <!-- wp:image {"width":"auto","height":"60px","sizeSlug":"full","linkDestination":"none"} -->
     <figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/icon-8.png" style="width:auto;height:60px"/></figure>
     <!-- /wp:image -->
@@ -82,7 +82,7 @@
     <p class="has-tertiary-color has-text-color"><?php esc_html_e( 'Everything you need', 'patterns-edd' ); ?></p>
     <!-- /wp:paragraph --></div>
     <!-- /wp:group --></div>
-    <!-- /wp:group -->  
+    <!-- /wp:group -->
 
 </div>
 <!-- /wp:column --></div>
