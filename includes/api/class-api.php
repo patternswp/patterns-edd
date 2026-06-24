@@ -36,14 +36,14 @@ if ( ! class_exists( 'Patterns_Edd_Api' ) ) {
 		/**
 		 * Rest route namespace.
 		 *
-		 * @var Patterns_Edd_Api
+		 * @var string
 		 */
 		public $namespace = 'patterns-edd/';
 
 		/**
 		 * Rest route version.
 		 *
-		 * @var Patterns_Edd_Api
+		 * @var string
 		 */
 		public $version = 'v1';
 

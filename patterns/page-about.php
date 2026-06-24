@@ -1,6 +1,6 @@
 <?php
 /**
- * Title:Page About 
+ * Title: Page About
  * Slug: patterns-edd/page-about
  * Categories: page
  * Keywords: Page

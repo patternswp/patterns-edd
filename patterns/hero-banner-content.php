@@ -13,7 +13,7 @@
 ?>
 <!-- wp:group {"metadata":{"name":"Hero content"},"align":"full","style":{"spacing":{"padding":{"right":"0px","left":"0px"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="padding-right:0px;padding-left:0px">
-    
+
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained","wideSize":""}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"0","padding":{"right":"var:preset|spacing|80","left":"var:preset|spacing|80"}}},"layout":{"type":"constrained","wideSize":""}} -->
 <div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--80)"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"300","textTransform":"uppercase","letterSpacing":"1px"}},"fontSize":"x-small"} -->
@@ -27,10 +27,10 @@
 
 <!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|20","padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="padding-right:0;padding-left:0">
-    
+
 <!-- wp:group {"backgroundColor":"default","layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group has-default-background-color has-background">
-    
+
     <!-- wp:search {"label":"Search","showLabel":false,"placeholder":"Search Here","buttonText":"Search","buttonUseIcon":true,"style":{"layout":{"selfStretch":"fill","flexSize":null},"border":{"top":{"width":"0px","style":"none"},"right":{"width":"0px","style":"none"},"bottom":{"width":"0px","style":"none"},"left":{}}},"fontSize":"x-small"} /-->
 
 </div>

@@ -1,6 +1,6 @@
 <?php
 /**
- * Title:Page Contact
+ * Title: Page Contact
  * Slug: patterns-edd/page-contact
  * Categories: page
  * Keywords: Page

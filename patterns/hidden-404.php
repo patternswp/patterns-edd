@@ -1,6 +1,6 @@
 <?php
 /**
- * Title:404
+ * Title: 404
  * Slug: patterns-edd/hidden-404
  * Inserter: no
  *
@@ -16,7 +16,7 @@
 <!-- wp:heading {"textAlign":"left","level":1,"style":{"typography":{"textTransform":"capitalize","fontStyle":"normal","fontWeight":"700"}},"textColor":"default","fontSize":"xx-large"} -->
 <h1 class="wp-block-heading has-text-align-left has-default-color has-text-color has-xx-large-font-size" style="font-style:normal;font-weight:700;text-transform:capitalize"><?php echo esc_html__( '404', 'patterns-edd' ); ?></h1>
 <!-- /wp:heading -->
-    
+
 </div>
 <!-- /wp:group --></div></div>
 <!-- /wp:cover -->
@@ -24,11 +24,11 @@
 
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}}},"backgroundColor":"default","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull has-default-background-color has-background" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)">
-    
+
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"0"}},"backgroundColor":"default","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-default-background-color has-background"
     style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)">
-    
+
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-center">
 <!-- wp:column {"verticalAlignment":"center","width":"50%","layout":{"type":"default"}} -->

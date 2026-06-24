@@ -18,7 +18,7 @@
     <!-- wp:heading {"metadata":{"bindings":{"content":{"source":"patterns-edd/archive-title","args":{"key":"archive-title"}}}}, "textAlign":"left","level":1,"style":{"typography":{"textTransform":"capitalize"}},"textColor":"default","fontSize":"xx-large"} -->
 			<h1 class="wp-block-heading has-text-align-left has-default-color has-text-color has-xx-large-font-size" style="text-transform:capitalize"></h1>
 			<!-- /wp:heading -->
-    
+
 </div>
 <!-- /wp:group --></div></div>
 <!-- /wp:cover -->
